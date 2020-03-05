@@ -1,0 +1,10 @@
+apiVersion: v1
+entries:
+  test-app:
+  - created: "2020-03-05T11:39:31.617391702Z"
+    digest: e58c5f742decedbeba6f2827409a7c6168494fb4b8634dc14304274d67646789
+    name: test-app
+    urls:
+    - test-app-1.0.1.tgz
+    version: 1.0.1
+generated: "2020-03-05T11:39:31.615693426Z"
