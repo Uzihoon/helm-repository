@@ -1,10 +1,12 @@
 apiVersion: v1
 entries:
-  test-app:
-  - created: "2020-03-05T11:39:31.617391702Z"
-    digest: e58c5f742decedbeba6f2827409a7c6168494fb4b8634dc14304274d67646789
-    name: test-app
+  elasticsearch:
+  - created: "2020-03-05T12:29:33.022869921Z"
+    digest: 9c05b6e7b05da587571d47fe05f7081dfe318b40f114328be516334a3796de12
+    name: elasticsearch
+    sources:
+    - https://github.com/Uzihoon/efk-stack-demo
     urls:
-    - test-app-1.0.1.tgz
-    version: 1.0.1
-generated: "2020-03-05T11:39:31.615693426Z"
+    - elasticsearch-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-03-05T12:29:33.022214633Z"
