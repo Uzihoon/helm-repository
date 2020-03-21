@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   elasticsearch:
-  - created: "2020-03-05T12:29:33.022869921Z"
+  - created: "2020-03-21T06:13:28.535404053Z"
     digest: 9c05b6e7b05da587571d47fe05f7081dfe318b40f114328be516334a3796de12
     name: elasticsearch
     sources:
@@ -9,4 +9,22 @@ entries:
     urls:
     - elasticsearch-1.0.0.tgz
     version: 1.0.0
-generated: "2020-03-05T12:29:33.022214633Z"
+  fluentd:
+  - created: "2020-03-21T06:13:28.535647899Z"
+    digest: 8096352b8517a8c79f4af13f28f6b0d43db6b2fb90b0eca39c7ee0b6d888bbb6
+    name: fluentd
+    sources:
+    - https://github.com/Uzihoon/efk-stack-demo
+    urls:
+    - fluentd-1.0.0.tgz
+    version: 1.0.0
+  kibana:
+  - created: "2020-03-21T06:13:28.535847516Z"
+    digest: cc324c263bea7cf65a276da897e9a0f4d06ea24411687fd459a3b667cc6370d8
+    name: kibana
+    sources:
+    - https://github.com/Uzihoon/efk-stack-demo
+    urls:
+    - kibana-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-03-21T06:13:28.534386001Z"
