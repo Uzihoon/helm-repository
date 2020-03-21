@@ -1,6 +1,8 @@
 repositories:
   - name: uzihoon
     url: https://uzihoon.github.io/helm-repository/
+  - name: stable
+    url: https://kubernetes-charts.storage.googleapis.com
 
 releases:
   - name: elasticsearch
