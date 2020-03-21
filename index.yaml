@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   elasticsearch:
-  - created: "2020-03-21T06:58:05.142491044Z"
+  - created: "2020-03-21T07:00:24.29837826Z"
     digest: ecaf5885187b30e40e1807dbc3adfd3d2df02992b314d813d68d43a8f5fee639
     name: elasticsearch
     sources:
@@ -10,7 +10,7 @@ entries:
     - elasticsearch-1.0.0.tgz
     version: 1.0.0
   fluentd:
-  - created: "2020-03-21T06:58:05.143281368Z"
+  - created: "2020-03-21T07:00:24.298593491Z"
     digest: 8096352b8517a8c79f4af13f28f6b0d43db6b2fb90b0eca39c7ee0b6d888bbb6
     name: fluentd
     sources:
@@ -19,7 +19,7 @@ entries:
     - fluentd-1.0.0.tgz
     version: 1.0.0
   kibana:
-  - created: "2020-03-21T06:58:05.143987317Z"
+  - created: "2020-03-21T07:00:24.298814824Z"
     digest: cc324c263bea7cf65a276da897e9a0f4d06ea24411687fd459a3b667cc6370d8
     name: kibana
     sources:
@@ -27,4 +27,4 @@ entries:
     urls:
     - kibana-1.0.0.tgz
     version: 1.0.0
-generated: "2020-03-21T06:58:05.142089087Z"
+generated: "2020-03-21T07:00:24.297937713Z"
