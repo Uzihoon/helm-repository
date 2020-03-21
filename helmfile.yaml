@@ -1,0 +1,14 @@
+repositories:
+  - name: uzihoon
+    url: https://uzihoon.github.io/helm-repository/
+
+releases:
+  - name: elasticsearch
+    namespace: kube-logging
+    chart: uzihoon/elasticsearch
+  - name: kibana
+    namespace: kube-logging
+    chart: uzihoon/kibana
+  - name: fluentd
+    namespace: kube-logging
+    chart: uzihoon/fluentd
